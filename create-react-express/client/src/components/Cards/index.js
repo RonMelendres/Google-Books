@@ -1,5 +1,5 @@
 import React from "react";
-import "./CharacterStyle.css";
+// import "./CharacterStyle.css";
 
 function CharacterCards(props) {
     return (
