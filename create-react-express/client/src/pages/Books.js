@@ -8,3 +8,5 @@
 // import { Input, TextArea, FormBtn } from "../components/Form";
 
 // class Books
+
+// this file is meant to feature all of the books saved by the user. Each card will contain the basic information of the book including its title, author(s), a synopsis, image and a link. The card will also have two buttons. One is to submit the book to the saved area, and the other is to delete a book once the user is done.
