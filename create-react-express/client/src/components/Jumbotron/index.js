@@ -6,8 +6,8 @@ function Jumbotron() {
         
         <div className="container">
             <div className="jumbotron">
-                <h1 className="display-4">Clicky Game</h1>
-                <p className="lead">Click on a character to earn points! However do not choose the same character twice.</p>
+                <h1 className="display-4">Google Book Search</h1>
+                <p className="lead">Search for and Save Books of Interest</p>
 
             </div>
         </div>
