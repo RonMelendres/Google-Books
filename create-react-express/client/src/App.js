@@ -18,10 +18,7 @@ function App() {
                 <Form />
                 <Cards>
                     <Switch>
-                        <Route exact path="/" component={Books} />
-                        <Route exact path="/books" component={Books} />
-                        <Route exact path="/books/:id" component={Detail} />
-                        <Route component={NoMatch} />
+
                     </Switch>
                 </Cards>
             </div>
@@ -29,4 +26,10 @@ function App() {
     );
 }
 export default App;
+
+// goes between switch
+/* <Route exact path="/" component={Books} />
+    <Route exact path="/books" component={Books} />
+    <Route exact path="/books/:id" component={Detail} />
+    <Route component={NoMatch} /> */
 
